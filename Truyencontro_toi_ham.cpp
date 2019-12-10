@@ -39,3 +39,5 @@ void Ham3(int *c)
 {
 	*c = *c * 2; // *c là giá trị của biến mà con trỏ c truyền vào
 }
+// thực ra cách dùng con trỏ như trong hàm 3 ko phải là truyền tham trị mà là truyền con trỏ cho hàm. 
+//Tuy nhiên hai cách này gần giống nhau. Ta sẽ tìm hiểu truyền tham trị trong file khác

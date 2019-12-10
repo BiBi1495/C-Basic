@@ -17,3 +17,4 @@ int main()
 	}
 	return 0;
 }
+// ngoai ra ta con co the so sanh cac con tro voi nhau nhu so sanh hai so
